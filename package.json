@@ -1,0 +1,23 @@
+{
+  "name": "better-merge",
+  "version": "1.0.0",
+  "description": "Merge for onjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vteremasov/better-merge.git"
+  },
+  "keywords": [
+    "objects",
+    "merge"
+  ],
+  "author": "vteremasov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vteremasov/better-merge/issues"
+  },
+  "homepage": "https://github.com/vteremasov/better-merge#readme"
+}
